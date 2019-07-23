@@ -1,0 +1,20 @@
+﻿{
+	"list": [
+		   {
+		   "name":"测试新房A",
+		   "model":"1-1-1",
+		   "area":200,
+		   "price":200,
+		   "unitPrice":10000,
+		   "floor":"低楼层/8"
+		   },
+		   {
+		   "name":"测试新房B",
+		   "model":"1-1-2",
+		   "area":230,
+		   "price":230,
+		   "unitPrice":20000,
+		   "floor":"高楼成"
+	   }
+	   ]
+}
